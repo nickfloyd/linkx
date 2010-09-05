@@ -1,4 +1,37 @@
 RubyRails:
-    title: "Ruby and Rails"
+    title: "Ruby on Rails"
     links: [
-        link: {title: "Cool Guy # 5", uri: "http://test.com"}, link: {title: "Archcoder", uri: "http://archcoder.com"}]
+        link: {title: "If You Learn Only One New Thing This Year, Make It Rack", uri: "http://blog.wekeroad.com/tutorials/rack-melts-faces"}, link: {title: "A Tale of Abort Traps (or Always Question Your Assumptions)", uri: "http://yehudakatz.com/2010/08/24/a-tale-of-abort-traps-or-always-question-your-assumptions/"}, link: {title: "Advice on using Ruby, RVM, Passenger, Rails, Bundler", uri: "http://jeremy.wordpress.com/2010/08/19/ruby-rvm-passenger-rails-bundler-in-development/"}, link: {title: "All The Cool Kids Use Ruby", uri: "http://www.xtranormal.com/watch/7023615/"}, link: {title: "Ruby 1.9.2 is released", uri: "http://www.ruby-lang.org/en/news/2010/08/18/ruby-1-9-2-is-released/"}, link: {title: "Rails 3 is released", uri: "http://edgeguides.rubyonrails.org/3_0_release_notes.html"}, link: {title: "Learning Ruby", uri: "http://www.rubykoans.com/"}, link: {title: "Full Rails 3 tutorial book", uri: "http://railstutorial.org/book"}, link: {title: "Ruby and Rails Ecosystem White Paper", uri: "http://infoether.com/ruby-and-rails-whitepaper"}]
+        
+DotNet:
+    title: ".net"
+    links: [
+        link: {title: "VS 2010 Deployment (Package, One click deploy and Web.config transformation)", uri: "http://www.codeproject.com/Article.aspx?tag=173132085113053941"}, link: {title: "Build Your First Windows Phone 7 Silverlight Application", uri: "http://www.codeproject.com/Article.aspx?tag=173132085106783941"}, link: {title: "SystemWatchdog - An experimental & educational project for system monitoring", uri: "http://www.codeproject.com/Article.aspx?tag=173132085091103941"}, link: {title: "Writing an extensible polling service", uri: "http://www.codeproject.com/Article.aspx?tag=173132085102943941"}]
+                
+API:
+    title: "API"
+    links: [
+        link: {title: "Twitter API Adds Retweet Count and More", uri: "http://blog.programmableweb.com/2010/08/30/twitter-api-adds-retweet-count-and-more/"}, link: {title: "OAuth-only Twitter: What it Means for JavaScript Apps", uri: "http://blog.programmableweb.com/2010/08/31/oauth-only-twitter-what-it-means-for-javascript-apps/"}, link: {title: "Face Detection API: Face Detection Made Simple", uri: "http://blog.programmableweb.com/2010/09/01/face-detection-api-face-detection-made-simple/"}, link: {title: "Twitter Opens the Floodgates, Slightly", uri: "http://blog.programmableweb.com/2010/09/02/twitter-opens-the-floodgates-slightly/"}, link: {title: "No Nuclear Option with Yahoo APIs", uri: "http://blog.programmableweb.com/2010/09/03/no-nuclear-option-with-yahoo-apis/"}]
+
+Database:
+    title: "Database / NoSQL"
+    links: [
+        link: {title: "Relational Database Vs NoSQL Fanbois", uri: "http://highscalability.com/blog/2010/9/5/hilarious-video-relational-database-vs-nosql-fanbois.html"}, link: {title: "Pomegranate - Storing Billions and Billions of Tiny Little Files", uri: "http://highscalability.com/blog/2010/8/30/pomegranate-storing-billions-and-billions-of-tiny-little-fil.html"}, link: {title: "Building a Scalable Key-Value Database: Project Hydracus", uri: "http://highscalability.com/blog/2010/8/23/building-a-scalable-key-value-database-project-hydracus.html"}, link: {title: "MongoDb vs SQL Server Basic Speed Tests", uri: "http://www.eggheadcafe.com/tutorials/aspnet/6f573869-c8eb-40c3-9946-2f61e0163966/mongodb-vs-sql-server-basic-speed-tests.aspx"}, link: {title: "Constantly Deploying Database Refactors", uri: "http://www.atmos.org/2010/07/28/constantly-shipping-refactorings.html"}]
+
+CodeTheory:
+    title: "Code Theory / Engineering / Tools"
+    links: [
+        link: {title: "Scale-out vs Scale-up", uri: "http://natishalom.typepad.com/nati_shaloms_blog/2010/09/scale-up-vs-scale-out.html"}, link: {title: "GitHub: Pull Requests 2.0", uri: "http://github.com/blog/712-pull-requests-2-0"}, link: {title: "Gitbox - Git client for Mac OS X", uri: "http://gitbox.pierlis.com/"}, link: {title: "Git your act together - Jeff Kreeftmeijer", uri: "http://jeffkreeftmeijer.com/2010/git-your-act-together/"}, link: {title: "Vampires (Programmers) versus Werewolves (Sysadmins)", uri: "http://www.codinghorror.com/blog/2010/08/vampires-programmers-versus-werewolves-sysadmins.html"}]
+        
+Productivity:
+    title: "Productivity"
+    links: [
+        link: {title: "Five Best Mobile To-Do List Managers", uri: "http://lifehacker.com/5630230/five-best-mobile-to+do-list-managers"}]
+
+
+        
+
+        
+                
+                
+                

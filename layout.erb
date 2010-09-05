@@ -1,0 +1,6 @@
+<h3><%=title%></h3>
+<ul>
+<% links.each do |link| %>
+	<li><a href="<%=link["link"]["uri"]%>"><%=link["link"]["title"]%></a></li>
+<% end %>
+</ul>

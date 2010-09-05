@@ -1,5 +1,8 @@
 require 'yaml'
 require './build_script'
+require 'net/http'
+require 'uri'
+
 
 def generate_html()
   puts "generating"
@@ -10,6 +13,14 @@ def generate_html()
 
   sections.each do |content|
    build_script.title = content_yml[content]["title"]
+   
+   content_yml[content]["links"].each do |link|
+     uri = URI.parse("http://api.bit.ly/v3/shorten?login=nickfloyd&apiKey=[API KEY]&longUrl=#{link["link"]["uri"]}%2F&format=txt")
+     response = Net::HTTP.get_response(uri)
+     link["link"]["uri"] = response.body.strip #Net::HTTP.get_print(uri)
+     # puts Net::HTTP.get_print(uri)
+   end
+   
    build_script.links = content_yml[content]["links"]
    
    begin
