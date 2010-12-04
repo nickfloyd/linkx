@@ -31,4 +31,5 @@ def generate_html()
   end
 end
 
+
 generate_html()
