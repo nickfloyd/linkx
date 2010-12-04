@@ -1,0 +1,83 @@
+RubyRails:
+    title: "Ruby on Rails"
+    links: [
+        link: {title: "", uri: ""}, 
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},]
+        
+DotNet:
+    title: ".net"
+    links: [
+        link: {title: "", uri: ""}, 
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},]                
+API:
+    title: "API"
+    links: [
+        link: {title: "", uri: ""}, 
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},]
+        
+Database:
+    title: "Database / NoSQL"
+    links: [
+        link: {title: "", uri: ""}, 
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},]
+        
+CodeTheory:
+    title: "Code Theory / Engineering / Tools"
+    links: [
+        link: {title: "", uri: ""}, 
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},]
+           
+Productivity:
+    title: "Productivity"
+    links: [
+        link: {title: "", uri: ""}, 
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},
+        link: {title: "", uri: ""},]
+        

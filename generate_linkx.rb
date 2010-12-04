@@ -15,7 +15,7 @@ def generate_html()
    build_script.title = content_yml[content]["title"]
    
    content_yml[content]["links"].each do |link|
-     uri = URI.parse("http://api.bit.ly/v3/shorten?login=nickfloyd&apiKey=[API KEY]&longUrl=#{link["link"]["uri"]}%2F&format=txt")
+     uri = URI.parse("http://api.bit.ly/v3/shorten?login=nickfloyd&apiKey=R_51cb492a2200dd82b2c738ade4825bea&longUrl=#{link["link"]["uri"]}%2F&format=txt")
      response = Net::HTTP.get_response(uri)
      link["link"]["uri"] = response.body.strip #Net::HTTP.get_print(uri)
      # puts Net::HTTP.get_print(uri)

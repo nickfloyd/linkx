@@ -1,37 +1,23 @@
 RubyRails:
     title: "Ruby on Rails"
     links: [
-        link: {title: "If You Learn Only One New Thing This Year, Make It Rack", uri: "http://blog.wekeroad.com/tutorials/rack-melts-faces"}, link: {title: "A Tale of Abort Traps (or Always Question Your Assumptions)", uri: "http://yehudakatz.com/2010/08/24/a-tale-of-abort-traps-or-always-question-your-assumptions/"}, link: {title: "Advice on using Ruby, RVM, Passenger, Rails, Bundler", uri: "http://jeremy.wordpress.com/2010/08/19/ruby-rvm-passenger-rails-bundler-in-development/"}, link: {title: "All The Cool Kids Use Ruby", uri: "http://www.xtranormal.com/watch/7023615/"}, link: {title: "Ruby 1.9.2 is released", uri: "http://www.ruby-lang.org/en/news/2010/08/18/ruby-1-9-2-is-released/"}, link: {title: "Rails 3 is released", uri: "http://edgeguides.rubyonrails.org/3_0_release_notes.html"}, link: {title: "Learning Ruby", uri: "http://www.rubykoans.com/"}, link: {title: "Full Rails 3 tutorial book", uri: "http://railstutorial.org/book"}, link: {title: "Ruby and Rails Ecosystem White Paper", uri: "http://infoether.com/ruby-and-rails-whitepaper"}]
+        link: {title: "Bundler: As Simple as What You Did Before", uri: "http://yehudakatz.com/2010/09/30/bundler-as-simple-as-what-you-did-before/"}, link: {title: "The testing mindset using Ruby", uri: "http://rubylearning.com/blog/2010/09/30/the-testing-mindset/"}, link: {title: "Running Rails on Nginx", uri: "http://kevin.vanzonneveld.net/techblog/article/ruby_with_nginx_on_ubuntu_lucid/"}, link: {title: "So you're new to Ruby", uri: "http://rubylearning.com/blog/2010/09/24/so-youre-new-to-ruby/"}, link: {title: "14 ways to have fun coding with Ruby", uri: "http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/"}]
         
 DotNet:
     title: ".net"
     links: [
-        link: {title: "VS 2010 Deployment (Package, One click deploy and Web.config transformation)", uri: "http://www.codeproject.com/Article.aspx?tag=173132085113053941"}, link: {title: "Build Your First Windows Phone 7 Silverlight Application", uri: "http://www.codeproject.com/Article.aspx?tag=173132085106783941"}, link: {title: "SystemWatchdog - An experimental & educational project for system monitoring", uri: "http://www.codeproject.com/Article.aspx?tag=173132085091103941"}, link: {title: "Writing an extensible polling service", uri: "http://www.codeproject.com/Article.aspx?tag=173132085102943941"}]
-                
+        link: {title: "TDD in .net MVC", uri: "http://visualstudiomagazine.com/articles/2010/09/21/tdd-in-mvc.aspx"}]                
 API:
     title: "API"
     links: [
-        link: {title: "Twitter API Adds Retweet Count and More", uri: "http://blog.programmableweb.com/2010/08/30/twitter-api-adds-retweet-count-and-more/"}, link: {title: "OAuth-only Twitter: What it Means for JavaScript Apps", uri: "http://blog.programmableweb.com/2010/08/31/oauth-only-twitter-what-it-means-for-javascript-apps/"}, link: {title: "Face Detection API: Face Detection Made Simple", uri: "http://blog.programmableweb.com/2010/09/01/face-detection-api-face-detection-made-simple/"}, link: {title: "Twitter Opens the Floodgates, Slightly", uri: "http://blog.programmableweb.com/2010/09/02/twitter-opens-the-floodgates-slightly/"}, link: {title: "No Nuclear Option with Yahoo APIs", uri: "http://blog.programmableweb.com/2010/09/03/no-nuclear-option-with-yahoo-apis/"}]
-
-Database:
-    title: "Database / NoSQL"
-    links: [
-        link: {title: "Relational Database Vs NoSQL Fanbois", uri: "http://highscalability.com/blog/2010/9/5/hilarious-video-relational-database-vs-nosql-fanbois.html"}, link: {title: "Pomegranate - Storing Billions and Billions of Tiny Little Files", uri: "http://highscalability.com/blog/2010/8/30/pomegranate-storing-billions-and-billions-of-tiny-little-fil.html"}, link: {title: "Building a Scalable Key-Value Database: Project Hydracus", uri: "http://highscalability.com/blog/2010/8/23/building-a-scalable-key-value-database-project-hydracus.html"}, link: {title: "MongoDb vs SQL Server Basic Speed Tests", uri: "http://www.eggheadcafe.com/tutorials/aspnet/6f573869-c8eb-40c3-9946-2f61e0163966/mongodb-vs-sql-server-basic-speed-tests.aspx"}, link: {title: "Constantly Deploying Database Refactors", uri: "http://www.atmos.org/2010/07/28/constantly-shipping-refactorings.html"}]
-
+        link: {title: "Twitter.com is eating their own dog food", uri: "http://blog.programmableweb.com/2010/09/14/twitter-com-is-now-one-giant-mashup/"}, link: {title: "Metrics for Content APIs: An NPR Case Study", uri: "http://blog.programmableweb.com/2010/09/15/metrics-for-content-apis-an-npr-case-study/"}, link: {title: "Twitter API Calls Doubled Since April: Now Serving 70,000 Every Second", uri: "http://blog.programmableweb.com/2010/09/16/twitter-api-calls-doubled-since-may-now-serving-70000-every-second/"}, link: {title: "Stealth Mode Watch - search Form D data, listed because of the cool logo", uri: "http://stealthmodewatch.com/api.html"}]
+        
 CodeTheory:
     title: "Code Theory / Engineering / Tools"
     links: [
-        link: {title: "Scale-out vs Scale-up", uri: "http://natishalom.typepad.com/nati_shaloms_blog/2010/09/scale-up-vs-scale-out.html"}, link: {title: "GitHub: Pull Requests 2.0", uri: "http://github.com/blog/712-pull-requests-2-0"}, link: {title: "Gitbox - Git client for Mac OS X", uri: "http://gitbox.pierlis.com/"}, link: {title: "Git your act together - Jeff Kreeftmeijer", uri: "http://jeffkreeftmeijer.com/2010/git-your-act-together/"}, link: {title: "Vampires (Programmers) versus Werewolves (Sysadmins)", uri: "http://www.codinghorror.com/blog/2010/08/vampires-programmers-versus-werewolves-sysadmins.html"}]
-        
+        link: {title: "Internet Explorer 9 Screenshot Tour: The Best New Features in IE9", uri: "http://lifehacker.com/5638885/internet-explorer-screenshot-tour-the-best-new-features-in-ie9"}, link: {title: "Twitter 'onMouseOver' security flaw widely exploited", uri: "http://www.sophos.com/blogs/gc/g/2010/09/21/twitter-onmouseover-security-flaw-widely-exploited/"}, link: {title: "Facebook is down", uri: "http://highscalability.com/blog/2010/9/30/facebook-and-site-failures-caused-by-complex-weakly-interact.html"}, link: {title: "Applying Scalability Patterns To Infrastructure Architecture", uri: "http://highscalability.com/blog/2010/9/22/applying-scalability-patterns-to-infrastructure-architecture.html"}, link: {title: "Playfish doesn't play games with architecture", uri: "http://highscalability.com/blog/2010/9/21/playfishs-social-gaming-architecture-50-million-monthly-user.html"}, link: {title: "How Can The Large Hadron Collider Withstand One Petabyte Of Data A Second?", uri: "http://highscalability.com/blog/2010/9/16/how-can-the-large-hadron-collider-withstand-one-petabyte-of.html"}, link: {title: "Know your code-caching behavior", uri: "http://highscalability.com/blog/2010/9/30/more-troubles-with-caching.html"}, link: {title: "What I learned from my job interview with Facebook...", uri: "http://www.thebitsource.com/infrastructure-operations/the-social-network-bust-what-i-learned-from-my-job-interview-with-facebook/"}, link: {title: "How HTML 5 came to be", uri: "http://diveintohtml5.org/past.html"}, link: {title: "The OS doesn't matter", uri: "http://www.mondaynote.com/2010/10/03/the-os-doesn%E2%80%99t-matter"}, link: {title: "ebook - test drivin JavaScript", uri: "http://www.toptoread.info/2010/10/test-driven-javascript-development.html"}, link: {title: "Maintainable systems - opt on software architecture", uri: "http://www.codingthearchitecture.com/2010/09/29/maintainable_systems_2.html"}]
+           
 Productivity:
     title: "Productivity"
     links: [
-        link: {title: "Five Best Mobile To-Do List Managers", uri: "http://lifehacker.com/5630230/five-best-mobile-to+do-list-managers"}]
-
-
-        
-
-        
-                
-                
-                
+        link: {title: "Error Goblin - Look up any Windows or Mac error codes to find out what they actually mean.", uri: "http://www.errorgoblin.com/"}, link: {title: "Simon Sinek, of Start With Why", uri: "http://startwithwhy.com/"}, link: {title: "BeingGeek - must have book for geeks", uri: "http://vimeo.com/15113923"}]

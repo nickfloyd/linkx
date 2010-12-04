@@ -1,6 +1,56 @@
-<h3><%=title%></h3>
+<h3>Ruby on Rails</h3>
 <ul>
-	<% content.each do |link| %>
-		<li><a href="<%=link.uri%>"><%=link.title%></a></li>
-	<% end %>
+
+	<li><a href="http://bit.ly/ax8vHc">SHODAN - wrapper in ruby</a></li>
+
+	<li><a href="http://bit.ly/bgPobO">Taking stock of my thoughts on ASP .NET and the alternatives</a></li>
+
+	<li><a href="http://bit.ly/aq7VFH">Just a reminder of a good read - why's (polgnant) guide to Ruby</a></li>
+
+	<li><a href="http://bit.ly/dupGf7">RubyLearning.org - 'We help Ruby Newbies go from zero to awesome'</a></li>
+
+</ul>
+
+<h3>.net</h3>
+<ul>
+
+	<li><a href="http://bit.ly/9P51tA">Entity Framework 3.5 and TDD</a></li>
+
+</ul>
+
+<h3>Database / NoSQL</h3>
+<ul>
+
+	<li><a href="http://bit.ly/asrWUE">MySQL versus MongoDB - yet another silly benchmark</a></li>
+
+	<li><a href="http://bit.ly/9CsEBG">Node.js and MongoDB</a></li>
+
+</ul>
+
+<h3>API</h3>
+<ul>
+
+	<li><a href="http://bit.ly/9Ss85w">SHODAN - computer search engine</a></li>
+
+	<li><a href="http://bit.ly/9hhiRk">Google's Prediction API</a></li>
+
+	<li><a href="http://bit.ly/bm2Izk">esri GeoServices REST spec</a></li>
+
+</ul>
+
+<h3>Code Theory / Engineering / Tools</h3>
+<ul>
+
+	<li><a href="http://bit.ly/cpwNiH">Google's Colossus Makes Search Real-Time By Dumping MapReduce</a></li>
+
+	<li><a href="http://bit.ly/bG1O4T">An approach to feature branching in git</a></li>
+
+	<li><a href="http://bit.ly/a7bn7I">Got Git? HOWTO git and github</a></li>
+
+	<li><a href="http://bit.ly/dAFJjU">Test-Driven Development isn't new</a></li>
+
+	<li><a href="http://bit.ly/9qlsP1">When Systems Fail</a></li>
+
+	<li><a href="http://bit.ly/daCZ2X">Free ebook Beyond Software Architecture</a></li>
+
 </ul>
